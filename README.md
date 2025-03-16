@@ -1,6 +1,4 @@
-Here’s a well-structured **GitHub README** for your **Iris Binary Classification** project using **Logistic Regression**. It includes project details, setup instructions, and usage guidelines. 🚀  
 
----
 
 ### 📌 **Project Name:** **Iris Binary Classifier**  
 *A Machine Learning project for binary classification of the Iris dataset using Logistic Regression.*
